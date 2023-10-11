@@ -17,7 +17,7 @@
   overflow: hidden;
   border-radius: 5px;
   background-color: #000000;
-  border: 5px ridge #eb6099;
+  border: 3px ridge #c2aa4b;
   cursor: pointer;
 }
 
@@ -30,7 +30,7 @@
   position: relative;
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   color: #ffffff;
-  text-shadow: 0px 2px 5px #ec0062;
+  text-shadow: 0px 2px 5px #000;
 }
 
 .videos > div:nth-child(1) {
